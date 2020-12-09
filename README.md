@@ -1,1 +1,1 @@
-<img src="https://github.com/brunaprogrammer/Recriando-a-pagina-inicial-do-Instagram/blob/master/imagens/Capturar.PNG" >
+<img src="https://raw.githubusercontent.com/brunaprogrammer/Recriando-a-pagina-inicial-do-Instagram/master/imagens/Capturar.PNG">
