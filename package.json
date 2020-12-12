@@ -1,0 +1,19 @@
+{
+  "name": "recriando-a-pagina-inicial-do-instagram",
+  "version": "1.0.0",
+  "description": "<img src=\"https://raw.githubusercontent.com/brunaprogrammer/Recriando-a-pagina-inicial-do-Instagram/master/imagens/Capturar.PNG\">",
+  "main": "insta.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunaprogrammer/bruna-recriando-instagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunaprogrammer/bruna-recriando-instagram/issues"
+  },
+  "homepage": "https://github.com/brunaprogrammer/bruna-recriando-instagram#readme"
+}
