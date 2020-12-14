@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/brunaprogrammer/Recriando-a-pagina-inicial-do-Instagram/master/imagens/Capturar.PNG">
+<img src="https://zealous-lalande-20a67c.netlify.app/">
