@@ -1,1 +1,1 @@
-<link src="https://zealous-lalande-20a67c.netlify.app/">
+<link href="https://zealous-lalande-20a67c.netlify.app/">
